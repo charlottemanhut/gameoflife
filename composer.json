@@ -1,0 +1,18 @@
+{
+    "name": "charlotte.manduca-hutchings/gameoflife",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "GameOfLife\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Charlotte Manduca-Hutchings",
+            "email": "charlotte.manduca-hutchings@digital.justice.gov.uk"
+        }
+    ],
+    "require": {}
+}
